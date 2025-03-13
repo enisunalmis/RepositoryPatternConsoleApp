@@ -1,1 +1,1 @@
-Repository Deseni Basit Bir Console Örneği
+Basit Repository Design Pattern C# Console Örneği
